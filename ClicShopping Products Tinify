@@ -1,0 +1,13 @@
+---
+collection: "E-commerce"
+platform: "ClicShopping"
+type: "Hooks"
+developer: "ClicShopping"
+developer_url: "https://www.clicshopping.org"
+price: "Free"
+url: "https://github.com/ClicShoppingOfficialModulesV3/hooks_optimize_image_on_the_fly/"
+---
+
+Automatically optimizes your products images immediately.
+This hook allows you to optimize your jpg and png products image on the fly without lost on your quality image.
+No core change and instruction available with the module on github
